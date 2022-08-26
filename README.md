@@ -1,4 +1,4 @@
-# MVCLab-Summer-Course-FastAPI
+# MVCLab-Summer-Course-LineBot_with_DB
 This is the homework from MVCLab-Summer-Course-LineBot_with_DB
 
 ### Available Operations
